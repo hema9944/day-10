@@ -1,0 +1,8 @@
+int a=1o;
+b=20;
+int *it, *csa;
+i&a;
+csa=&b;
+a=10;
+it=csa;
+*csa=21; 
